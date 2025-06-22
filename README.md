@@ -1,1 +1,1 @@
-# NDTFramework
+# Neural Decision Tree (NDT) Framework
